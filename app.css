@@ -1,0 +1,29 @@
+label{
+    font-size: xx-large;
+}
+.container{
+   text-align: center;
+   color: white;
+   margin-bottom: 0rem;
+   padding-bottom: 1rem;
+    background-color: #064E3B;
+    
+}
+h2{
+    color: #A7F3D0;
+}
+button{
+    background-color: #A7F3D0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    
+}
+
+table,tr th,tr td,tr {
+    color: white;
+    border: 1px solid rgb(252, 252, 252);
+    
+  }
